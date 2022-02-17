@@ -1,0 +1,7 @@
+SET Sum = 0
+Num = INPUT(from user)
+
+WHILE (Num >= 0)
+      Sum = Sum + Num
+      Num = INPUT(from user)
+PRINT Sum
