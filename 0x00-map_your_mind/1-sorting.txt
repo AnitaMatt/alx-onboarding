@@ -1,0 +1,17 @@
+Read number a, b and c
+
+IF (a > b)
+   IF (b > c)
+      PRINT a, b and c
+   ELSE (c > a)
+      PRINT c, a and b
+   ELSE
+      PRINT a, c and b
+ELSE
+   IF (b > c)
+      IF (a > c)
+      	 PRINT b, c and a
+      ELSE
+	 PRINT b, a and c
+   ELSE
+      PRINT c, b and a
