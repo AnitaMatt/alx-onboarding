@@ -1,0 +1,28 @@
+Read input a,
+
+b and c
+
+SET a = INPUT from user
+SET b = INPUT from user
+SET Sum = 0
+
+SET A1 = a * a
+SET B1 = b * b
+
+NOW Total = A1 + B1
+
+You can PRINT Total
+
+THEN END.
+
+
+Pseudo code below
+
+a = INPUT(number from user)
+b = INPUT(number from user)
+
+A1 = 5 * 5
+B1 = 7 * 7
+
+Total = A1 + B1
+Total = 74
